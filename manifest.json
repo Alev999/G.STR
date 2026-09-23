@@ -1,0 +1,13 @@
+{
+  "id": "nuvio-animepahe-sub",
+  "name": "AnimePahe Sub",
+  "description": "AnimePahe streaming links with Japanese audio and subtitles",
+  "version": "1.0",
+  "author": "Alev999",
+  "supportedTypes": ["movie", "tv", "anime"],
+  "filename": "Animepahe/Animepahe-Sub.js",
+  "enabled": true,
+  "formats": ["m3u8"],
+  "logo": "https://files.catbox.moe/deot3a.png",
+  "contentLanguage": ["en", "ja"]
+}
