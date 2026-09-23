@@ -11,7 +11,7 @@
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/animepahe.js",
       "enabled": true,
-      "formats": ["m3u8"],
+      "formats": [""mkv", "mp4", "m3u8"],
       "logo": "https://files.catbox.moe/deot3a.png",
       "contentLanguage": ["en", "ja"]
     }
